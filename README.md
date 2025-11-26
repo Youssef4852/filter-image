@@ -57,10 +57,6 @@ index.html        → main HTML file
 style.css         → page styling
 script.js         → filter logic, upload system, and download handling
 
-📷 Preview
-
-(ضع هنا صورة من الموقع لو عندك)
-
 🌟 Author
 
 Created by [Your Name] — A simple but functional tool for practicing image manipulation in the browser.
